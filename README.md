@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VickyDeng-2022 with a bachelor degree in FDU and a master degree in SJTU.
-- 🌱 I’m currently learning SQL and Python.
+- 🌱 I’m currently learning SQL, Tableau and Python.
 - 💞️ I’m looking for jobs as a DA/DE.
 - 📫 You can reach me at VickyDeng_2021@163.com.
 
